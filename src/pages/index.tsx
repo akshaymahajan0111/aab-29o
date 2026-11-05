@@ -187,7 +187,7 @@ export default function ColourVisionTest() {
       style={{ background: 'hsl(var(--background))' }}
     >
       <Helmet>
-        <title>Colour Vision Test — Spot the Odd One Out</title>
+        <title>Colour Vision App — Spot the Odd One Out</title>
         <meta name="description" content="Test your colour perception! Spot the tile with a different shade before time runs out. A fun pattern recognition game." />
       </Helmet>
       {/* Flash overlay */}
