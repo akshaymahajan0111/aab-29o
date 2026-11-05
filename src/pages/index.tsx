@@ -231,7 +231,7 @@ export default function ColourVisionTest() {
                 Colour Vision
               </h1>
               <p className="text-2xl sm:text-3xl font-bold mt-1" style={{ color: 'hsl(var(--primary))' }}>
-                Test
+                App
               </p>
             </motion.div>
 
